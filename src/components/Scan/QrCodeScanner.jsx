@@ -23,6 +23,7 @@ export const QrCodeScanner = () => {
                 styles={{
                     container: {width: 350}
                 }}
+                
                 components={{
                     audio: false,
                     finder: false,

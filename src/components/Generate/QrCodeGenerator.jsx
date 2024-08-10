@@ -40,7 +40,7 @@ export const QrCodeGenerator = () => {
 
             {result !== '' && (
                 <div className={s.qrWrapper}>
-                    <QRCodeSVG value={result} size={250} />
+                    <QRCodeSVG value={result} size={500} />
                 </div>
                 )}
         </div>
