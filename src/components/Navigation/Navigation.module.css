@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.buttonLink {
+    background: rgb(190, 190, 190);
+    width: 187px;
+    height: 28px;
+    border-radius: 5%;
+    border: solid;
+    font-size: 15px;
+}
